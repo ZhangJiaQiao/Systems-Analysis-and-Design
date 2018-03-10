@@ -11,3 +11,75 @@
 1. 作为报价或决策的依据。
 1. 安排具体的项目进度。
 1. 作为组织的生产力数据。
+
+## 软件工程标准
+### Software Engineering Body of Knowledge软件工程知识体系
+SWEBOK是ISO/IEC TR 19759:2005[1]的国际标准，详细说明了公认的软件工程知识体系指南。SWEBOK关注了以下KAs：
++ 软件需求
++ 软件设计
++ 软件构建
++ 软件测试
++ 软件维护
++ 软件配置管理
++ 软件工程管理
++ 软件工程过程
++ 软件工程模型和方法
++ 软件质量
++ 软件工程专业实践
++ 软件工程经济学
++ 计算基础
++ 数学基础
++ 工程基金会
+
+## Maturity Model Integration(CMMI)
+### 什么是CMMI？
+能力成熟度模型集成(CMMI)是一个过程改进方法，它的目的是帮助组织改进他们的绩效。其可被用于引导一个项目，一个部门或一个完整的组织的过程改进。
+
+### 美国国防部为什么要开发CMM模型
+目的是为了帮助软件企业对软件工程过程进行管理和改进，增强开发与改进能力，从而能按时地，不超预算地开发出高质量的软件。
+
+### 5级分类模型与KA
+#### CMMI开发中的成熟级别
+1. 初始级别：
+组织的初始状态，每一个没有通过CMMI评估的公司或组织处于初始级。
+
+1. 可管理级：
++ CM - 配置管理（Configuration Management）
++ MA - 度量和分析（Measurement and Analysis）
++ PMC - 项目监控（Project Monitoring and Control）
++ PP - 项目计划（Project Planning）
++ PPQA - 过程和产品质量保证（Process and Product Quality Assurance）
++ REQM - 需求管理（Requirements Management）
++ SAM - 供应商协议管理（Supplier Agreement Management）
+1. 已定义级：
++ DAR - 决策分析和决议（Decision Analysis and Resolution）
++ IPM - 集成的项目管理（Integrated Project Management）
++ OPD - 组织级过程定义（Organizational Process Definition）
++ OPF - 组织级过程聚焦（Organizational Process Focus）
++ OT - 组织级培训（Organizational Training）
++ PI - 产品集成（Product Integration）
++ RD - 需求开发（Requirements Development）
++ RSKM - 风险管理（Risk Management）
++ TS - 技术解决方案（Technical Solution）
++ VAL - 验证（Validation）
++ VER - 核查（Verification）
+1. 量化管理级：
++ OPP - 组织级过程绩效（Organizational Process Performance）
++ QPM - 量化的项目管理（Quantitative Project Management）
+1. 优化管理级：
++ CAR - 因果分析和决议（Causal Analysis and Resolution）
++ OPM - 组织级绩效管理（Organizational Performance Management
+
+#### CMMI服务中的成熟级别
+
+#### CMMI采购中的成熟级别
+
+### CMM对产业发展的贡献
+贡献：
+1. 能保证软件开发的质量与进度，能对杂乱无章无序管理的项目开发进行规范。
+1. 有利于成本控制。因为质量有所保证，浪费在修改、解决客户的抱怨方面的成本会降低很多。绝大多数情况是缺少规范制度，只是求快。项目完成后，要花很多时间修修补补，费用很容易失控。
+1. 有助于提高软件开发者的职业素养。每一个具体参与其中的员工，无论是项目经理，还是工程师，甚至一些高层管理人的做事方法逐渐变得标准化、规范化。
+1. 能够解决人员流动所带来的问题。公司通过过程改进，建立了财富库以共享经验， 而不是单纯依靠某些人员。
+1. 有利于提升公司和员工绩效管理水平，以持续改进效益。通过度量和分析开发过程和产品，建立公司的效率指标。
+
+## 软件工程文档标准
