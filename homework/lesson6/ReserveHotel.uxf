@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <diagram program="umlet" version="14.2">
-  <zoom_level>10</zoom_level>
+  <zoom_level>7</zoom_level>
   <element>
     <id>UMLActor</id>
     <coordinates>
       <x>0</x>
-      <y>270</y>
-      <w>60</w>
-      <h>110</h>
+      <y>273</y>
+      <w>42</w>
+      <h>77</h>
     </coordinates>
     <panel_attributes>Tourist</panel_attributes>
     <additional_attributes/>
@@ -15,10 +15,10 @@
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>150</x>
-      <y>50</y>
-      <w>440</w>
-      <h>690</h>
+      <x>105</x>
+      <y>119</y>
+      <w>308</w>
+      <h>483</h>
     </coordinates>
     <panel_attributes>Reserve Hotel</panel_attributes>
     <additional_attributes/>
@@ -26,10 +26,10 @@
   <element>
     <id>UMLUseCase</id>
     <coordinates>
-      <x>190</x>
-      <y>120</y>
-      <w>120</w>
-      <h>40</h>
+      <x>133</x>
+      <y>168</y>
+      <w>84</w>
+      <h>28</h>
     </coordinates>
     <panel_attributes>Search hotel</panel_attributes>
     <additional_attributes/>
@@ -37,10 +37,10 @@
   <element>
     <id>UMLUseCase</id>
     <coordinates>
-      <x>190</x>
-      <y>270</y>
-      <w>120</w>
-      <h>40</h>
+      <x>133</x>
+      <y>273</y>
+      <w>84</w>
+      <h>28</h>
     </coordinates>
     <panel_attributes>Choose a hotel</panel_attributes>
     <additional_attributes/>
@@ -48,10 +48,10 @@
   <element>
     <id>UMLUseCase</id>
     <coordinates>
-      <x>190</x>
-      <y>190</y>
-      <w>120</w>
-      <h>60</h>
+      <x>133</x>
+      <y>217</y>
+      <w>84</w>
+      <h>42</h>
     </coordinates>
     <panel_attributes>Get a specified 
 list of hotels</panel_attributes>
@@ -60,10 +60,10 @@ list of hotels</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>300</x>
-      <y>90</y>
-      <w>120</w>
-      <h>70</h>
+      <x>210</x>
+      <y>147</y>
+      <w>84</w>
+      <h>49</h>
     </coordinates>
     <panel_attributes>lt=&lt;.
 &lt;&lt;include&gt;&gt;</panel_attributes>
@@ -72,10 +72,10 @@ list of hotels</panel_attributes>
   <element>
     <id>UMLUseCase</id>
     <coordinates>
-      <x>400</x>
-      <y>80</y>
-      <w>120</w>
-      <h>40</h>
+      <x>280</x>
+      <y>140</y>
+      <w>84</w>
+      <h>28</h>
     </coordinates>
     <panel_attributes>Choose city	</panel_attributes>
     <additional_attributes/>
@@ -83,10 +83,10 @@ list of hotels</panel_attributes>
   <element>
     <id>UMLUseCase</id>
     <coordinates>
-      <x>400</x>
-      <y>120</y>
-      <w>120</w>
-      <h>40</h>
+      <x>280</x>
+      <y>168</y>
+      <w>84</w>
+      <h>28</h>
     </coordinates>
     <panel_attributes>choose date</panel_attributes>
     <additional_attributes/>
@@ -94,10 +94,10 @@ list of hotels</panel_attributes>
   <element>
     <id>UMLUseCase</id>
     <coordinates>
-      <x>420</x>
-      <y>270</y>
-      <w>130</w>
-      <h>40</h>
+      <x>294</x>
+      <y>273</y>
+      <w>91</w>
+      <h>28</h>
     </coordinates>
     <panel_attributes>Choose room type</panel_attributes>
     <additional_attributes/>
@@ -105,10 +105,10 @@ list of hotels</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>300</x>
-      <y>120</y>
-      <w>120</w>
-      <h>40</h>
+      <x>210</x>
+      <y>168</y>
+      <w>84</w>
+      <h>28</h>
     </coordinates>
     <panel_attributes>lt=&lt;.
 &lt;&lt;include&gt;&gt;</panel_attributes>
@@ -117,10 +117,10 @@ list of hotels</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>300</x>
-      <y>270</y>
-      <w>140</w>
-      <h>40</h>
+      <x>210</x>
+      <y>273</y>
+      <w>98</w>
+      <h>28</h>
     </coordinates>
     <panel_attributes>lt=&lt;.
 &lt;&lt;include&gt;&gt;</panel_attributes>
@@ -129,10 +129,10 @@ list of hotels</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>20</x>
-      <y>130</y>
-      <w>190</w>
-      <h>190</h>
+      <x>14</x>
+      <y>175</y>
+      <w>133</w>
+      <h>133</h>
     </coordinates>
     <panel_attributes/>
     <additional_attributes>10.0;170.0;170.0;10.0</additional_attributes>
@@ -140,10 +140,10 @@ list of hotels</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>300</x>
+      <x>210</x>
       <y>280</y>
-      <w>140</w>
-      <h>70</h>
+      <w>98</w>
+      <h>49</h>
     </coordinates>
     <panel_attributes>lt=&lt;.
 &lt;&lt;include&gt;&gt;</panel_attributes>
@@ -152,10 +152,10 @@ list of hotels</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>300</x>
-      <y>200</y>
-      <w>110</w>
-      <h>40</h>
+      <x>210</x>
+      <y>224</y>
+      <w>77</w>
+      <h>28</h>
     </coordinates>
     <panel_attributes>lt=&lt;.
 &lt;&lt;include&gt;&gt;</panel_attributes>
@@ -164,10 +164,10 @@ list of hotels</panel_attributes>
   <element>
     <id>UMLUseCase</id>
     <coordinates>
-      <x>390</x>
-      <y>200</y>
-      <w>120</w>
-      <h>40</h>
+      <x>273</x>
+      <y>224</y>
+      <w>84</w>
+      <h>28</h>
     </coordinates>
     <panel_attributes>Sort results</panel_attributes>
     <additional_attributes/>
@@ -175,10 +175,10 @@ list of hotels</panel_attributes>
   <element>
     <id>UMLUseCase</id>
     <coordinates>
-      <x>410</x>
-      <y>320</y>
-      <w>120</w>
-      <h>40</h>
+      <x>287</x>
+      <y>308</y>
+      <w>84</w>
+      <h>28</h>
     </coordinates>
     <panel_attributes>Choose dates</panel_attributes>
     <additional_attributes/>
@@ -186,10 +186,10 @@ list of hotels</panel_attributes>
   <element>
     <id>UMLUseCase</id>
     <coordinates>
-      <x>390</x>
-      <y>380</y>
-      <w>140</w>
-      <h>40</h>
+      <x>273</x>
+      <y>350</y>
+      <w>98</w>
+      <h>28</h>
     </coordinates>
     <panel_attributes>Display hotel detail</panel_attributes>
     <additional_attributes/>
@@ -197,10 +197,10 @@ list of hotels</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>300</x>
+      <x>210</x>
       <y>280</y>
-      <w>130</w>
-      <h>140</h>
+      <w>91</w>
+      <h>98</h>
     </coordinates>
     <panel_attributes>lt=&lt;.
 &lt;&lt;include&gt;&gt;</panel_attributes>
@@ -209,10 +209,10 @@ list of hotels</panel_attributes>
   <element>
     <id>UMLUseCase</id>
     <coordinates>
-      <x>190</x>
-      <y>430</y>
-      <w>130</w>
-      <h>40</h>
+      <x>133</x>
+      <y>385</y>
+      <w>91</w>
+      <h>28</h>
     </coordinates>
     <panel_attributes>Confirm reservation</panel_attributes>
     <additional_attributes/>
@@ -220,10 +220,10 @@ list of hotels</panel_attributes>
   <element>
     <id>UMLUseCase</id>
     <coordinates>
-      <x>190</x>
-      <y>500</y>
-      <w>150</w>
-      <h>50</h>
+      <x>133</x>
+      <y>434</y>
+      <w>105</w>
+      <h>35</h>
     </coordinates>
     <panel_attributes>Add the reservation
 to the basket</panel_attributes>
@@ -232,10 +232,10 @@ to the basket</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>310</x>
-      <y>430</y>
-      <w>100</w>
-      <h>40</h>
+      <x>217</x>
+      <y>385</y>
+      <w>70</w>
+      <h>28</h>
     </coordinates>
     <panel_attributes>lt=&lt;.
 &lt;&lt;include&gt;&gt;</panel_attributes>
@@ -244,10 +244,10 @@ to the basket</panel_attributes>
   <element>
     <id>UMLUseCase</id>
     <coordinates>
-      <x>390</x>
-      <y>430</y>
-      <w>170</w>
-      <h>50</h>
+      <x>273</x>
+      <y>385</y>
+      <w>119</w>
+      <h>35</h>
     </coordinates>
     <panel_attributes>Show the summary of
 reservation</panel_attributes>
@@ -256,10 +256,10 @@ reservation</panel_attributes>
   <element>
     <id>UMLUseCase</id>
     <coordinates>
-      <x>180</x>
-      <y>590</y>
-      <w>150</w>
-      <h>50</h>
+      <x>126</x>
+      <y>497</y>
+      <w>105</w>
+      <h>35</h>
     </coordinates>
     <panel_attributes>Check the shopping
 basket</panel_attributes>
@@ -268,10 +268,10 @@ basket</panel_attributes>
   <element>
     <id>UMLUseCase</id>
     <coordinates>
-      <x>400</x>
-      <y>540</y>
-      <w>120</w>
-      <h>40</h>
+      <x>280</x>
+      <y>462</y>
+      <w>84</w>
+      <h>28</h>
     </coordinates>
     <panel_attributes>Remove a 
 Reservation</panel_attributes>
@@ -280,10 +280,10 @@ Reservation</panel_attributes>
   <element>
     <id>UMLUseCase</id>
     <coordinates>
-      <x>400</x>
-      <y>600</y>
-      <w>120</w>
-      <h>40</h>
+      <x>280</x>
+      <y>504</y>
+      <w>84</w>
+      <h>28</h>
     </coordinates>
     <panel_attributes>Check booking
 details</panel_attributes>
@@ -292,10 +292,10 @@ details</panel_attributes>
   <element>
     <id>UMLUseCase</id>
     <coordinates>
-      <x>400</x>
-      <y>650</y>
-      <w>120</w>
-      <h>70</h>
+      <x>280</x>
+      <y>539</y>
+      <w>84</w>
+      <h>49</h>
     </coordinates>
     <panel_attributes>Pay for the 
 reservation by 
@@ -305,10 +305,10 @@ credit cards</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>320</x>
-      <y>550</y>
-      <w>100</w>
-      <h>80</h>
+      <x>224</x>
+      <y>469</y>
+      <w>70</w>
+      <h>56</h>
     </coordinates>
     <panel_attributes>lt=&lt;.
 &lt;&lt;include&gt;&gt;</panel_attributes>
@@ -317,10 +317,10 @@ credit cards</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>320</x>
-      <y>600</y>
-      <w>100</w>
-      <h>40</h>
+      <x>224</x>
+      <y>504</y>
+      <w>70</w>
+      <h>28</h>
     </coordinates>
     <panel_attributes>lt=&lt;.
 &lt;&lt;include&gt;&gt;</panel_attributes>
@@ -329,10 +329,10 @@ credit cards</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>320</x>
-      <y>610</y>
-      <w>100</w>
-      <h>90</h>
+      <x>224</x>
+      <y>511</y>
+      <w>70</w>
+      <h>63</h>
     </coordinates>
     <panel_attributes>lt=&lt;.
 &lt;&lt;include&gt;&gt;</panel_attributes>
@@ -341,10 +341,10 @@ credit cards</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>630</x>
-      <y>650</y>
-      <w>120</w>
-      <h>60</h>
+      <x>441</x>
+      <y>539</y>
+      <w>84</w>
+      <h>42</h>
     </coordinates>
     <panel_attributes>&lt;&lt;external system&gt;&gt;
 Credit card 
@@ -354,10 +354,10 @@ services</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>510</x>
-      <y>660</y>
-      <w>140</w>
-      <h>40</h>
+      <x>357</x>
+      <y>546</y>
+      <w>98</w>
+      <h>28</h>
     </coordinates>
     <panel_attributes/>
     <additional_attributes>10.0;20.0;120.0;20.0</additional_attributes>
@@ -365,10 +365,10 @@ services</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>20</x>
-      <y>210</y>
-      <w>190</w>
-      <h>110</h>
+      <x>14</x>
+      <y>231</y>
+      <w>133</w>
+      <h>77</h>
     </coordinates>
     <panel_attributes/>
     <additional_attributes>10.0;90.0;170.0;10.0</additional_attributes>
@@ -376,10 +376,10 @@ services</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>20</x>
-      <y>290</y>
-      <w>190</w>
-      <h>180</h>
+      <x>14</x>
+      <y>287</y>
+      <w>133</w>
+      <h>126</h>
     </coordinates>
     <panel_attributes/>
     <additional_attributes>10.0;10.0;170.0;160.0</additional_attributes>
@@ -387,10 +387,10 @@ services</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>20</x>
-      <y>270</y>
-      <w>190</w>
-      <h>50</h>
+      <x>14</x>
+      <y>273</y>
+      <w>133</w>
+      <h>35</h>
     </coordinates>
     <panel_attributes/>
     <additional_attributes>10.0;30.0;170.0;20.0</additional_attributes>
@@ -398,10 +398,10 @@ services</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>20</x>
-      <y>290</y>
-      <w>190</w>
-      <h>250</h>
+      <x>14</x>
+      <y>287</y>
+      <w>133</w>
+      <h>175</h>
     </coordinates>
     <panel_attributes/>
     <additional_attributes>10.0;10.0;170.0;230.0</additional_attributes>
@@ -409,10 +409,10 @@ services</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>20</x>
-      <y>290</y>
-      <w>180</w>
-      <h>340</h>
+      <x>14</x>
+      <y>287</y>
+      <w>126</w>
+      <h>238</h>
     </coordinates>
     <panel_attributes/>
     <additional_attributes>10.0;10.0;160.0;320.0</additional_attributes>
@@ -420,10 +420,10 @@ services</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>1110</x>
-      <y>250</y>
-      <w>100</w>
-      <h>70</h>
+      <x>777</x>
+      <y>259</y>
+      <w>70</w>
+      <h>49</h>
     </coordinates>
     <panel_attributes>EHotel
 -
@@ -435,24 +435,25 @@ Location
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>1110</x>
-      <y>420</y>
-      <w>100</w>
-      <h>60</h>
+      <x>777</x>
+      <y>378</y>
+      <w>70</w>
+      <h>42</h>
     </coordinates>
     <panel_attributes>ERoom
 -
 RoomType
+RoomNum
 </panel_attributes>
     <additional_attributes/>
   </element>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>800</x>
-      <y>260</y>
-      <w>140</w>
-      <h>60</h>
+      <x>560</x>
+      <y>266</y>
+      <w>98</w>
+      <h>42</h>
     </coordinates>
     <panel_attributes>EReservation
 -
@@ -463,23 +464,24 @@ CheckOutDate</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>820</x>
-      <y>560</y>
-      <w>100</w>
-      <h>50</h>
+      <x>574</x>
+      <y>476</y>
+      <w>70</w>
+      <h>35</h>
     </coordinates>
     <panel_attributes>ECreditCard
 -
-CardNum</panel_attributes>
+CardNum
+Balance</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>1010</x>
-      <y>80</y>
-      <w>140</w>
-      <h>30</h>
+      <x>707</x>
+      <y>140</y>
+      <w>98</w>
+      <h>21</h>
     </coordinates>
     <panel_attributes>MShoppingBasket</panel_attributes>
     <additional_attributes/>
@@ -487,10 +489,10 @@ CardNum</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>820</x>
-      <y>410</y>
-      <w>110</w>
-      <h>60</h>
+      <x>574</x>
+      <y>371</y>
+      <w>77</w>
+      <h>42</h>
     </coordinates>
     <panel_attributes>EPayment
 -
@@ -501,10 +503,10 @@ Price</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>930</x>
-      <y>270</y>
-      <w>200</w>
-      <h>50</h>
+      <x>651</x>
+      <y>273</y>
+      <w>140</w>
+      <h>35</h>
     </coordinates>
     <panel_attributes>lt=-
 m1=*
@@ -516,10 +518,10 @@ belong to &gt;
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>820</x>
-      <y>70</y>
-      <w>100</w>
-      <h>80</h>
+      <x>574</x>
+      <y>133</y>
+      <w>70</w>
+      <h>56</h>
     </coordinates>
     <panel_attributes>ETourist
 -
@@ -531,10 +533,10 @@ Sex</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>860</x>
-      <y>140</y>
-      <w>110</w>
-      <h>140</h>
+      <x>602</x>
+      <y>182</y>
+      <w>70</w>
+      <h>98</h>
     </coordinates>
     <panel_attributes>lt=-
 m1=*
@@ -546,10 +548,10 @@ belong to ^
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>1150</x>
-      <y>310</y>
-      <w>70</w>
-      <h>130</h>
+      <x>805</x>
+      <y>301</y>
+      <w>49</w>
+      <h>91</h>
     </coordinates>
     <panel_attributes>lt=-
 m1=1
@@ -561,10 +563,10 @@ has v
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>860</x>
-      <y>310</y>
-      <w>70</w>
-      <h>120</h>
+      <x>602</x>
+      <y>301</y>
+      <w>49</w>
+      <h>84</h>
     </coordinates>
     <panel_attributes>lt=-
 m1=1
@@ -576,10 +578,10 @@ has v
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>860</x>
-      <y>460</y>
-      <w>70</w>
-      <h>120</h>
+      <x>602</x>
+      <y>406</y>
+      <w>49</w>
+      <h>84</h>
     </coordinates>
     <panel_attributes>lt=-
 m1=1
@@ -591,10 +593,10 @@ pay ^
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>930</x>
-      <y>100</y>
-      <w>170</w>
-      <h>190</h>
+      <x>651</x>
+      <y>154</y>
+      <w>119</w>
+      <h>133</h>
     </coordinates>
     <panel_attributes>lt=-
 m1=*
@@ -606,10 +608,10 @@ belong to &gt;
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>910</x>
-      <y>70</y>
-      <w>120</w>
-      <h>50</h>
+      <x>637</x>
+      <y>133</y>
+      <w>84</w>
+      <h>35</h>
     </coordinates>
     <panel_attributes>lt=-
 m1=1
@@ -621,10 +623,10 @@ m2=1
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>720</x>
-      <y>100</y>
-      <w>120</w>
-      <h>520</h>
+      <x>504</x>
+      <y>154</y>
+      <w>84</w>
+      <h>364</h>
     </coordinates>
     <panel_attributes>lt=-
 m1=1
@@ -636,10 +638,10 @@ belong to ^
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>1110</x>
-      <y>130</y>
-      <w>100</w>
-      <h>30</h>
+      <x>777</x>
+      <y>175</y>
+      <w>70</w>
+      <h>21</h>
     </coordinates>
     <panel_attributes>MHotelList</panel_attributes>
     <additional_attributes/>
@@ -647,10 +649,10 @@ belong to ^
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>1150</x>
-      <y>150</y>
-      <w>70</w>
-      <h>120</h>
+      <x>805</x>
+      <y>189</y>
+      <w>49</w>
+      <h>84</h>
     </coordinates>
     <panel_attributes>lt=-
 m1=*
@@ -662,10 +664,10 @@ has v
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>1330</x>
-      <y>130</y>
-      <w>100</w>
-      <h>30</h>
+      <x>931</x>
+      <y>175</y>
+      <w>70</w>
+      <h>21</h>
     </coordinates>
     <panel_attributes>MSortOption</panel_attributes>
     <additional_attributes/>
@@ -673,10 +675,10 @@ has v
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>1200</x>
-      <y>120</y>
-      <w>150</w>
-      <h>50</h>
+      <x>840</x>
+      <y>168</y>
+      <w>105</w>
+      <h>35</h>
     </coordinates>
     <panel_attributes>lt=-
 m1=1
